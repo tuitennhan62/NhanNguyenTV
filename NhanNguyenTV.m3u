@@ -1,0 +1,4 @@
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/wGSrOkr.png", NhanNguyenTV HLS
+http://hieunhan.x443.pw/live/manifest/NhanNguyenTV/hls/stream/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.imgur.com/wGSrOkr.png", NhanNguyenTV MPD
+http://hieunhan.x443.pw/live/manifest/NhanNguyenTV/dash/stream/index.mpd
